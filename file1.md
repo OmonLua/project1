@@ -1,9 +1,14 @@
-##### My first line
-#### second is larger
-### third is even larger
-## and larger
-# The 
+##### The hashes for sizing
+
 ---
+The 3 dashes for horis=zontal rule
+
+The 3 ``` for keeping the format
+
+![my first image](./images/FaceApp_1661448655831.jpg)
+for inserting images
+
+
 ---
 ```
  main
